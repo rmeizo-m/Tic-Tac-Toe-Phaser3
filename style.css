@@ -1,0 +1,11 @@
+body{
+  min-height: 100vh;
+  background: #2d71cd;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#canvas{
+  padding: 10px;
+}
